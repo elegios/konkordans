@@ -1,0 +1,9 @@
+[package]
+
+name = "konkordans"
+version = "0.0.1"
+authors = ["Viktor Palmkvist <viktor@palmkvist.com>"]
+
+[dependencies.encoding]
+
+git = "https://github.com/lifthrasiir/rust-encoding.git"

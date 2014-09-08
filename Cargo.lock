@@ -1,0 +1,12 @@
+[root]
+name = "konkordans"
+version = "0.0.1"
+dependencies = [
+ "encoding 0.1.0 (git+https://github.com/lifthrasiir/rust-encoding.git#35f0d70f65f73ba16f296f9ec675eddee661ba79)",
+]
+
+[[package]]
+name = "encoding"
+version = "0.1.0"
+source = "git+https://github.com/lifthrasiir/rust-encoding.git#35f0d70f65f73ba16f296f9ec675eddee661ba79"
+
